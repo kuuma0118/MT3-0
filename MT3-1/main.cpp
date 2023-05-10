@@ -14,7 +14,7 @@ struct Vector3
 	float z;
 };
 
-const char kWindowTitle[] = "LE2B_02_イソガイユウト_タイトル";
+const char kWindowTitle[] = "LE2B_30_ワタナベクウマ_タイトル";
 
 Matrix4x4 Multiply(const Matrix4x4& m1, const Matrix4x4& m2)
 {
